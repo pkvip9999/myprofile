@@ -69,7 +69,8 @@ p{
     text-align: right;
     overflow: hidden;
     width: 100%;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
+    padding-top: 8px;
 }
 .avt{
     text-align: center;
