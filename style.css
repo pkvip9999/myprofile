@@ -163,8 +163,10 @@ p{
     margin-right: 35px;
  }
  .stt{
-     background: white;
     padding-bottom: 10px;
+ }
+ .bg-stt{
+     background: white;
  }
  .td{
      margin-top: 20px;
